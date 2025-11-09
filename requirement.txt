@@ -1,0 +1,22 @@
+# Core Deep Learning Framework
+torch==1.12.1
+torchvision==0.13.1
+
+# Data Processing & Visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+opencv-python>=4.6.0
+Pillow>=9.0.0
+
+# Machine Learning Utilities
+scikit-learn>=1.0.2
+
+# Logging & Monitoring
+tensorboard>=2.10.0
+tqdm>=4.64.0
+
+# Image Transformations
+albumentations>=1.2.0
+
+# Optional (if you plan to use Transfer_ResNet or pretrained models)
+torchsummary>=1.5.1
